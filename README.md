@@ -19,10 +19,14 @@ To install Cask, run this command:
 $ curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python
 ```
 
-Or if you are on a Mac, you can install Cask via Homebrew:
+Or if you are on a Mac, you can install Cask via Homebrew or MacPorts:
 
 ```bash
 $ brew install cask
+```
+
+```bash
+$ port install cask
 ```
 
 See <http://cask.readthedocs.io/> for more information and
